@@ -11,6 +11,7 @@ Due: Month Day, Year @ Time
 -   [Questions](#questions)
 -   [How to submit](#how-to-submit)
 -   [Cheatsheets](#cheatsheets)
+-   [References](#references)
 
 Instructions
 ------------
@@ -218,7 +219,7 @@ Questions
 How to submit
 -------------
 
-When you are ready to submit, be sure to save, commit, and push your final result so that everything is synchronized to Github. Then, navigate to **your copy** of the [Github repository](https://classroom.github.com/a/ePaF2kjm) you used for this assignment. You should see your repository, along with the updated files that you just synchronized to Github. Confirm that your files are up-to-date, and then do the following steps:
+When you are ready to submit, be sure to save, commit, and push your final result so that everything is synchronized to Github. Then, navigate to **your copy** of the Github repository you used for this assignment. You should see your repository, along with the updated files that you just synchronized to Github. Confirm that your files are up-to-date, and then do the following steps:
 
 1.  Click the *Pull Requests* tab near the top of the page.
 2.  Click the green button that says "New pull request".
