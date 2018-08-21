@@ -1,0 +1,73 @@
+---
+title: "Homework 2"
+author: "FirstName LastName"
+date: "`r Sys.Date()`"
+documentclass: article
+geometry: margin=1in
+fontsize: 11pt
+---
+
+```{r setup, include = FALSE}
+# DO NOT ALTER THIS CHUNK
+# Set knitr options
+knitr::opts_chunk$set(
+  echo = TRUE,
+  eval = TRUE,
+  cache = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  fig.width = 5,
+  fig.asp = 0.618,
+  fig.align = "center",
+  out.width = "80%",
+  dpi = 120
+)
+# Load required packages
+suppressPackageStartupMessages(library(tidyverse))
+```
+
+#### Question 1
+
+
+
+
+#### Question 2
+
+
+
+
+#### Question 3
+
+
+
+
+#### Question 4
+
+
+
+
+#### Question 5
+
+
+
+
+#### Question 6
+
+
+
+
+#### Question 7
+
+
+
+
+#### Question 8
+
+
+
+
+#### Question 9
+
+
+
+
