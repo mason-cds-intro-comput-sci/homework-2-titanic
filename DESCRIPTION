@@ -1,0 +1,5 @@
+Title: CDS 101 Titanic Homework
+Depends:
+  R (>= 3.5)
+Imports:
+  tidyverse
